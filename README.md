@@ -2,6 +2,7 @@
 Home of the 8-bit computer project
 
 ![photo](pics/main_thumb.jpg)
+
 [(full size)](pics/main.jpg)
 
 ### Hardware
@@ -28,3 +29,6 @@ Coming soon: block diagram, more thorough documentation
 [Emulator](software/sim%20v5.py)
 
 Coming soon: software documentation, more complete emulator, more demo programs
+
+### See also
+[Homebrew CPU ring](https://www.homebrewcpuring.org/)
