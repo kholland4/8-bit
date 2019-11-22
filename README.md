@@ -1,6 +1,8 @@
 # 8-bit
 Home of the 8-bit computer project
 
+![photo](pics/main.jpg)
+
 ### Hardware
 [Full schematics for the main system](schematics/main_combined_cleaned.jpg)
 
