@@ -1,3 +1,9 @@
+# Repository has moved
+## Go to [https://www.tausquared.net/8-bit/](https://www.tausquared.net/8-bit/)
+The information below is incomplete and outdated.
+
+*****
+
 # 8-bit
 Home of the 8-bit computer project
 
